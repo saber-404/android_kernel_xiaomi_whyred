@@ -1,0 +1,19 @@
+#### whyred redmi note5 4.4 android9 kernel supported docker
+#### thanks https://github.com/pearlos-whyred/android_kernel_xiaomi_whyred/tree/lineage-16.0
+### build kernel ./tc_build.sh
+### https://bitbucket.org/jonascardoso/toolchain_aarch64/src/master/
+
+### 说明
+红米note5 安卓9 官方全球版 4.4内核 支持docker
+### 源码链接
+https://github.com/pearlos-whyred/android_kernel_xiaomi_whyred/tree/lineage-16.0
+### 编译工具链
+https://bitbucket.org/jonascardoso/toolchain_aarch64/src/master/
+### 编译脚本
+tc_build.sh
+### 
+### 打包boot.img
+1. AnyKernel3
+https://github.com/osm0sis/AnyKernel3
+2. AIK-Linux
+
